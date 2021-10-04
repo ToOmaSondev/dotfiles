@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = petrelli.thomas@orange.fr
+	name = Thomas Petrelli
